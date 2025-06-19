@@ -1,0 +1,5 @@
+{
+    "log_type": "daily",
+    "max_file_count": 7,
+    "interval": 1
+}
